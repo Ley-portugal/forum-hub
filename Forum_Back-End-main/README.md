@@ -3,7 +3,7 @@
 ![forum](https://github.com/Medeiros000/Forum_Back-End/assets/98979459/cce02ede-c56f-44ef-9ade-c77a337ccee3)
 
 ## 💻 Sobre o projeto
-O Forum Alura é um fórum fictício e possui funcionalidades que permitem o ccadastro de usuários, cursos, tópicos e respostas e a listagem deles entre outros.
+O Forum Alura é um fórum fictício e possui funcionalidades que permitem o cadastro de usuários, cursos, tópicos e respostas e a listagem deles entre outros.
 
 ---
 ## 🔍 Objetivo
@@ -15,28 +15,13 @@ As API de exemplo aqui poderá ser consumida por qualquer framework de sua escol
 Exemplo: Angular, React, VueJS, Laravel e outros.
 
 ---
-## ⚙️ Por onde começar?
-* 1° Instalação: <br />
-* 2° Escolha uma IDE de sua preferência Exemplo: STS, Eclipse, Intellij ou qualquer outra.<br />
-* 3° Git<br />
-* 4° Escolha um banco de dados de sua preferencia para simular os testes localmente em sua maquina.<br />
-* 5°  Você pode dar um fork no projeto, clonar em seu PC <br />
- .clone o repositório `git https://github.com/Medeiros000/Forum_Back-End.git` <br />
- .Maven - UPDATE - Project - Force Update <br />
-* 6° Crie sua branch realize faça correção de bugs, ou crie implementação customização de exemplos.<br />
-
----
 ## 🛠️ Tecnologias utilizadas:
 
 - [Intellij](https://www.jetbrains.com/pt-br/idea/)
-- [MySql](https://www.mysql.com/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring Security](https://start.spring.io/)
 - [Token JWT](https://jwt.io/)
 
----
-## 📋 Diagrama de Entidade-Relecionamento do BD <br />
-* 🚨🚨 ATENÇÃO PROJETO EM ANDAMENTO.![Screenshot 2023-07-07 202946](https://github.com/Medeiros000/Forum_Back-End/assets/98979459/7232b2fe-8775-483a-bdf8-ed237d50396a)
 
 ---
 ## 🧾 Requisitos Funcionais
@@ -65,7 +50,3 @@ Exemplo: Angular, React, VueJS, Laravel e outros.
 * excluir tópico
 * excluir resposta
 
----
-## ✒️ Autor
-
-* **Júnior Medeiros - Desenvolvedor Java** - [JrMedeiros](https://github.com/Medeiros000)
